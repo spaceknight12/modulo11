@@ -1,0 +1,11 @@
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.exe
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.deps.json
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.runtimeconfig.json
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.runtimeconfig.dev.json
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.dll
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\bin\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.pdb
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\obj\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.csprojAssemblyReference.cache
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\obj\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.AssemblyInfoInputs.cache
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\obj\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.AssemblyInfo.cs
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\obj\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.dll
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\M11_01_01_Exceptions_SemExcepcao\obj\Debug\netcoreapp3.0\M11_01_01_Exceptions_SemExcepcao.pdb
