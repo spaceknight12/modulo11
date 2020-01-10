@@ -1,0 +1,4 @@
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\ADO.DB e MYSQL\bin\Debug\netcoreapp3.0\ADO.DB e MYSQL.exe
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\ADO.DB e MYSQL\obj\Debug\netcoreapp3.0\ADO.DB e MYSQL.AssemblyInfoInputs.cache
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\ADO.DB e MYSQL\obj\Debug\netcoreapp3.0\ADO.DB e MYSQL.AssemblyInfo.cs
+C:\Users\2218033\Desktop\Modulo11 PSI\M11_Exceptions\ADO.DB e MYSQL\obj\Debug\netcoreapp3.0\ADO.DB e MYSQL.csprojAssemblyReference.cache
